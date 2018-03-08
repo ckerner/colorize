@@ -1,0 +1,73 @@
+
+# Normal Colors
+BLACK=$'\e[0;30m'
+RED=$'\e[0;31m'
+GREEN=$'\e[0;32m'
+YELLOW=$'\e[0;33m'
+BLUE=$'\e[0;34m'
+PURPLE=$'\e[0;35m'
+CYAN=$'\e[0;36m'
+WHITE=$'\e[0;37m'
+
+# Bold Colors
+BOLD_BLACK=$'\e[1;30m'
+BOLD_RED=$'\e[1;31m'
+BOLD_GREEN=$'\e[1;32m'
+BOLD_YELLOW=$'\e[1;33m'
+BOLD_BLUE=$'\e[1;34m'
+BOLD_PURPLE=$'\e[1;35m'
+BOLD_CYAN=$'\e[1;36m'
+BOLD_WHITE=$'\e[1;37m'
+
+# Underlined Colors
+UND_BLACK=$'\e[4;30m'
+UND_RED=$'\e[4;31m'
+UND_GREEN=$'\e[4;32m'
+UND_YELLOW=$'\e[4;33m'
+UND_BLUE=$'\e[4;34m'
+UND_PURPLE=$'\e[4;35m'
+UND_CYAN=$'\e[4;36m'
+UND_WHITE=$'\e[4;37m'
+
+# Background Colors
+BCK_BLACK=$'\e[40m'
+BCK_RED=$'\e[41m'
+BCK_GREEN=$'\e[42m'
+BCK_YELLOW=$'\e[43m'
+BCK_BLUE=$'\e[44m'
+BCK_PURPLE=$'\e[45m'
+BCK_CYAN=$'\e[46m'
+BCK_WHITE=$'\e[47m'
+
+# High Intensity
+HI_BLACK=$'\e[0;90m'
+HI_RED=$'\e[0;91m'
+HI_GREEN=$'\e[0;92m'
+HI_YELLOW=$'\e[0;93m'
+HI_BLUE=$'\e[0;94m'
+HI_PURPLE=$'\e[0;95m'
+HI_CYAN=$'\e[0;96m'
+HI_WHITE=$'\e[0;97m'
+
+# Bold  High Intensity
+BHI_BLACK=$'\e[1;90m'
+BHI_RED=$'\e[1;91m'
+BHI_GREEN=$'\e[1;92m'
+BHI_YELLOW=$'\e[1;93m'
+BHI_BLUE=$'\e[1;94m'
+BHI_PURPLE=$'\e[1;95m'
+BHI_CYAN=$'\e[1;96m'
+BHI_WHITE=$'\e[1;97m'
+
+# High Intensity Background
+HIBCK_BLACK=$'\e[0;100m'
+HIBCK_BLACK=$'\e[0;101m'
+HIBCK_BLACK=$'\e[0;102m'
+HIBCK_BLACK=$'\e[0;103m'
+HIBCK_BLACK=$'\e[0;104m'
+HIBCK_BLACK=$'\e[0;105m'
+HIBCK_BLACK=$'\e[0;106m'
+HIBCK_BLACK=$'\e[0;107m'
+
+# Reset
+CLR_RESET=$'\e[0m'
